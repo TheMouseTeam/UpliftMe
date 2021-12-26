@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@drawable/shadow"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="24dp"
+            android:text="@string/set_goal"
+            android:textColor="@color/colorBlack"
+            android:textSize="16sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="24dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="24dp">
+
+            <ImageView
+                android:id="@+id/goal_10"
+                style="@style/ShareIcon"
+                android:src="@mipmap/i_10"/>
+
+            <ImageView
+                android:id="@+id/goal_30"
+                style="@style/ShareIcon"
+                android:src="@mipmap/i_30"/>
+
+
+            <ImageView
+                android:id="@+id/goal_50"
+                style="@style/ShareIcon"
+                android:src="@mipmap/i_50"/>
+
+            <ImageView
+                android:id="@+id/goal_80"
+                style="@style/ShareIcon"
+                android:src="@mipmap/i_80"/>
+
+            <ImageView
+                android:id="@+id/goal_100"
+                style="@style/ShareIcon"
+                android:src="@mipmap/i_100"/>
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/cancel_action_goal"
+            style="@style/BottomMenuText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>

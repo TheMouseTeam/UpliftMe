@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UpliftMe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="todays_points">"Today's Points:"</string>
+    <string name="overall_points">Overall Points:</string>
+    <string name="connect">Connect</string>
+    <string name="feel">Feel</string>
+    <string name="do_">Do</string>
+    <string name="health">Health</string>
+    <string name="well_done">Well done</string>
+    <string name="sure_action">Are you sure you want to add this action ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_goal">Set Your Goal</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="reached_goal">"You've reached today's goal. Keep up the good job."</string>
+    <string name="motto">Uplift Yourself Everyday</string>
+    <string name="previous_days">Previous Days</string>
+    <string name="delete_all">Delete all</string>
+    <string name="today">Today</string>
+    <string name="more">More:</string>
+    <string name="policy">SeriesMe</string>
+    <string name="points">Points:</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_days">Do you want to delete all days ?</string>
+    <string name="remaining">Remaining:</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UpliftMe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="todays_points">"Πόντοι για Σήμερα:"</string>
+    <string name="overall_points">Συνολικοί Πόντοι:</string>
+    <string name="connect">Συνδέσου</string>
+    <string name="feel">Νιώσε</string>
+    <string name="do_">Κάνε</string>
+    <string name="health">Υγεία</string>
+    <string name="well_done">Μπράβο</string>
+    <string name="sure_action">Είσαι σίγουρος ότι θέλεις να προσθέσεις αυτή την δραστηριότητα ?</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="set_goal">Ρύθμισε τον Στόχο σου</string>
+    <string name="congrats">Συγχαρητήρια!</string>
+    <string name="reached_goal">"Έπιασες τον στόχο για σήμερα. Συνέχισε την καλή δουλειά."</string>
+    <string name="motto">Ανέβασε Τον Ευατό Σου</string>
+    <string name="previous_days">Προηγούμενες Ημέρες</string>
+    <string name="delete_all">Διέγραψε τα όλα</string>
+    <string name="today">Σήμερα</string>
+    <string name="more">Περισσότερα:</string>
+    <string name="policy">SeriesMe</string>
+    <string name="points">Πόντοι:</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="delete_all_days">Θέλεις να τα διαγράψεις όλες τις ημέρες ?</string>
+    <string name="remaining">Σου απέμειναν:</string>
+</resources>
